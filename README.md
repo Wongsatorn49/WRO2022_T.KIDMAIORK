@@ -70,7 +70,7 @@ Vehicle photos : Below are the photos of the 6 view of the self driving autonomo
 <img src="https://user-images.githubusercontent.com/83978237/184659377-f4530b94-93d8-4010-8381-15634222ca61.jpg" width="500px">
 
 
-Link to YouTube video :
+Link to YouTube video : https://youtu.be/k3jiCPzxsNE
 
 ***********************************
 
