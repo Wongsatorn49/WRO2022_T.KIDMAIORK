@@ -78,8 +78,7 @@ SCHEMATIC DIAGRAM :
 
 Below is a schematic diagramatic representation consisting of all the electromechanical components (sensors, motors, bricks,) used in building the DEK IN NOMPHONG PROMOTE bot
 
-
-<img src="" width="500px">
+<img src="https://user-images.githubusercontent.com/83978237/184910489-55aed964-f368-47ab-bc5d-fcce5a0c9513.png" width="500px">
 
 
 INTRODUCTION:
@@ -121,15 +120,10 @@ Sensors:
 
 Motors:
 
--	MEDIUM MOTOR: the medium motor is the primary driving base of our self driving robot.
+-	MEDIUM MOTOR: the medium motor is steering actuator and primary driving base of our self driving robot.
 
 
 <img src="https://raw.githubusercontent.com/sakol289/WRO2022_DEK-IN-NOMPHONG-PROMOTE/main/other/MEDIUMMOTOR.jpg" width="500px">
-
-
--	LARGE MOTOR: the large motor acts as a steering actuator in our robot.
-
-<img src="https://raw.githubusercontent.com/sakol289/WRO2022_DEK-IN-NOMPHONG-PROMOTE/main/other/LARGEMOTOR.webp" width="500px">
 
 Brick:
 The spike prime Brick is the primary component of our robot. It supplies power to the robot and controls all its movements and actions. It is the part which stores all the programs neccessary for the functioning of the robot.
@@ -139,8 +133,7 @@ The spike prime Brick is the primary component of our robot. It supplies power t
 CODES:
 -	WORD BLOCKS
 
-
-<img src="" width="500px">
+<img src="https://user-images.githubusercontent.com/83978237/184910972-9a972cec-5e90-4e66-9269-7698460e86e6.png" width="500px">
 
 
 
