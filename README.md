@@ -78,7 +78,7 @@ SCHEMATIC DIAGRAM :
 
 Below is a schematic diagramatic representation consisting of all the electromechanical components (sensors, motors, bricks,) used in building the DEK IN NOMPHONG PROMOTE bot
 
-<img src="https://user-images.githubusercontent.com/83978237/184910489-55aed964-f368-47ab-bc5d-fcce5a0c9513.png" width="500px">
+<img src="https://user-images.githubusercontent.com/83978237/184910489-55aed964-f368-47ab-bc5d-fcce5a0c9513.png" width="1000px">
 
 
 INTRODUCTION:
